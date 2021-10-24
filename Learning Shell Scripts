@@ -1,7 +1,1 @@
-#Name: justin weber-hernandez
-#Email: justin.weber-hernandez19@myhunter.cuny.edu
-#Date: October 24, 2021
 
-print("Hello CSCI127 Students")
-justin=input('Name: ')
-print(justin + ' is learning shell scripts!')
