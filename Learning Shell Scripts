@@ -1,0 +1,3 @@
+print("Hello CSCI127 Students")
+justin=input('Name: ')
+print(justin + ' is learning shell scripts!')
